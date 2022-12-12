@@ -1,0 +1,7 @@
+{
+    "name": "maulana20/generate-document",
+    "description": "generate document dengan docker",
+    "require": {
+        "mpdf/mpdf": "^8.1"
+    }
+}
